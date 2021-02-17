@@ -2,4 +2,6 @@
 
 Olá! Bem vindo ao meu livro :call_me_hand:
 
-- Tópico 1 
+- Strogonoff de Frango
+- Pato ao molho de maracujá
+- Tapioca
