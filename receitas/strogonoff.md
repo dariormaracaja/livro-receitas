@@ -2,11 +2,11 @@
 
 ### Ingredientes: 
 
-- fk 
-- kf
-- fk
-- k
-- k
+- Peito de frango 
+- Ketchup
+- Maionese
+- Pimenta do reino
+- Alho
 
 ### Metodo de Preparo: 
 
